@@ -1,4 +1,4 @@
-## Welcome!
+## ABC: Always Be Coding!
 
 You're welcome to check my progress:
 
@@ -6,4 +6,4 @@ You're welcome to check my progress:
 - [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
 - [Leetcode](https://leetcode.com/u/exathan/)
 
-I'm building a few things. More info later!
+Let me cook. More info later!
